@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @XaviersGithub
-- 👀 I’m interested in PROGRAMMING
+- 👀 I’m interested in <u>PROGRAMMING</u>
 - 🌱 I’m currently learning PROGRAMMING
 - 💞️ I’m looking to collaborate on PROGRAMMING
 - 📫 How to reach me PROGRAMMING
-
-<b>test</b>
 
 <!---
 XaviersGithub/XaviersGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
