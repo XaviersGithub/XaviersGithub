@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @XaviersGithub
-- 👀 I’m interested in <u>PROGRAMMING</u>
+- <hr>
+- 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning PROGRAMMING
 - 💞️ I’m looking to collaborate on PROGRAMMING
 - 📫 How to reach me PROGRAMMING
